@@ -1,0 +1,7 @@
+[
+  {
+    "poolName": "test",
+    "url": "https://test.org",
+    "searchStrings": ["test"]
+  }
+]
